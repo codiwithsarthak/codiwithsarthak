@@ -47,7 +47,7 @@ I’m a **student**, **Linux enthusiast**, and an aspiring **programmer** with a
 ## 📧 You Can Find Me Here ...
 
 <p align="left">
-  <a href="https://x.com/codewithsarthak-2009" target="_blank">
+  <a href="https://x.com/codewithsarthak" target="_blank">
     <img src="https://img.shields.io/badge/X-1DA1F2?style=flat-square&logo=x&logoColor=white" alt="X (formerly Twitter)" />
   </a>
   <a href="mailto:codewithsarthak@protonmail.com" target="_blank">
