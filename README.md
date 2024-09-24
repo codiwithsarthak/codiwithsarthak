@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Sarthak 🧑‍💻 aka C1yte
+# Hi there 👋, I'm Sarthak 🧑‍💻 aka Saro
 
 ![Banner](1500x500.jpeg)
 
