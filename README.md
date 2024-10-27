@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Sarthak aka Saro 🧑‍💻
 
-![Banner](1500x500.jpeg)
+![Banner](1500x500.png)
 
 Welcome to my little corner of the coding universe! 🌌  
 I’m a **student**, **Linux enthusiast**, and an aspiring **programmer** with a focus on **Python** and **web development**. I'm passionate about **open-source**, **cryptocurrencies**, and **gaming**. Join me as I explore the ever-evolving world of tech!
