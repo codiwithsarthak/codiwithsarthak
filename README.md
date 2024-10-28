@@ -68,7 +68,7 @@ Systems      █████░░░░░░░░   40%
   
   | 🎮 Gaming | 💰 Crypto | 🐧 Linux | ✏️ Drawing |
   |-----------|-----------|----------|------------|
-  | Exploring virtual worlds | Trading & Learning | Customizing & Ricing | Digital & Traditional |
+  | Exploring virtual worlds | Investing & Learning | Customizing & Ricing | Digital & Traditional |
   
 </div>
 
