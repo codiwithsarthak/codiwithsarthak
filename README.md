@@ -1,56 +1,100 @@
-# Hi there 👋, I'm Sarthak aka Saro 🧑‍💻
+# Hello World! 👋 I'm Sarthak (Saro) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-![Banner](1500x500.png)
+<div align="center">
+  <img src="1500x500.png" alt="Banner" width="100%">
+  
+  [![GitHub followers](https://img.shields.io/github/followers/codiwithsarthak?style=for-the-badge&logo=github)](https://github.com/codiwithsarthak?tab=followers)
+  [![GitHub stars](https://img.shields.io/github/stars/codiwithsarthak?style=for-the-badge&logo=github)](https://github.com/codiwithsarthak?tab=stars)
+  [![Profile Views](https://komarev.com/ghpvc/?username=codiwithsarthak&style=for-the-badge)](https://github.com/codiwithsarthak)
+</div>
 
-Welcome to my little corner of the coding universe! 🌌  
-I’m a **student**, **Linux enthusiast**, and an aspiring **programmer** with a focus on **Python** and **web development**. I'm passionate about **open-source**, **cryptocurrencies**, and **gaming**. Join me as I explore the ever-evolving world of tech!
+## 🚀 About Me
 
-![GitHub followers](https://img.shields.io/github/followers/codewithsarthak-2009?style=social) ![GitHub stars](https://img.shields.io/github/stars/codewithsarthak-2009?style=social)
+> *"Code is poetry written in logic"* 
 
+I'm a passionate student developer exploring the vast universe of technology! 🌌
 
-## 🔧 I’m Currently Working With ...
+- 🎓 Currently studying and building awesome projects
+- 🐧 Linux enthusiast and open-source advocate
+- 🌱 Always learning something new
+- 🎮 Gamer by night, coder by day
+- 🎨 Creative coder who loves to draw
 
-### 🌐 Frontend Development
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+## 💻 Tech Stack
 
-### 🖥️ Backend Development
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+### Languages & Frameworks
+```text
+Frontend     ████████░░░░   65%
+Backend      ███████░░░░░   55%
+Systems      █████░░░░░░░░   40%
+```
 
-### 💻 Occasionally Using ...
-![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+#### 🎨 Frontend
+[![My Frontend Skills](https://skillicons.dev/icons?i=html,css,js)](https://github.com/codiwithsarthak)
 
-### 🛠️ Tools & Environments
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![NeoVim](https://img.shields.io/badge/-NeoVim-57A143?style=flat-square&logo=neovim&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)
-![Kate](https://img.shields.io/badge/Kate-59A3DB?style=flat-square&logo=kate&logoColor=white)
-![Arch](https://img.shields.io/badge/-Arch-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
-![Debian](https://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
+#### 🔧 Backend
+[![My Backend Skills](https://skillicons.dev/icons?i=python)](https://github.com/codiwithsarthak)
 
+#### ⚙️ Other Languages
+[![Other Languages](https://skillicons.dev/icons?i=lua,c,bash)](https://github.com/codiwithsarthak)
 
-## ✍️ Hobbies & Interests ...
+### 🛠️ Development Environment
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Cryptocurrencies-Bitcoin,%20Ethereum,%20Dogecoin-ffac33?style=flat-square&logo=bitcoin&logoColor=white" alt="Cryptocurrencies" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Gaming-FA4453?style=flat-square&logo=game-controller&logoColor=white" alt="Gaming" />
-  <img src="https://img.shields.io/badge/Drawing-FF69B4?style=flat-square&logo=paintbrush&logoColor=white" alt="Drawing" />
-</p>
+<table>
+  <tr>
+    <th>Category</th>
+    <th>Tools</th>
+  </tr>
+  <tr>
+    <td>Editors</td>
+    <td>
+      <a href="#"><img src="https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode"/></a>
+      <a href="#"><img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?style=for-the-badge&logo=neovim&logoColor=white" alt="NeoVim"/></a>
+      <a href="#"><img src="https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td>Operating Systems</td>
+    <td>
+      <a href="#"><img src="https://img.shields.io/badge/Arch%20Linux-%231793D1.svg?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux"/></a>
+      <a href="#"><img src="https://img.shields.io/badge/Debian-%23A81D33.svg?style=for-the-badge&logo=debian&logoColor=white" alt="Debian"/></a>
+    </td>
+  </tr>
+</table>
 
+## 🌟 Interests & Hobbies
 
+<div align="center">
+  
+  | 🎮 Gaming | 💰 Crypto | 🐧 Linux | ✏️ Drawing |
+  |-----------|-----------|----------|------------|
+  | Exploring virtual worlds | Trading & Learning | Customizing & Ricing | Digital & Traditional |
+  
+</div>
 
+## 📊 GitHub Stats
 
-## 📧 You Can Find Me Here ...
+<div align="center">
+  
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=codiwithsarthak&theme=tokyonight)
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codiwithsarthak&layout=compact&theme=tokyonight)
+  
+</div>
 
-<p align="left">
-  <a href="https://x.com/codewithsarthak" target="_blank">
-    <img src="https://img.shields.io/badge/X-1DA1F2?style=flat-square&logo=x&logoColor=white" alt="X (formerly Twitter)" />
-  </a>
-  <a href="mailto:codewithsarthak@protonmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+## 🤝 Let's Connect!
+
+<div align="center">
+  
+  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/codewithsarthak)
+  [![Email](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:codewithsarthak@protonmail.com)
+  
+  <p>💬 Feel free to reach out for collaborations or just a friendly chat!</p>
+  
+</div>
+
+---
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+</div>
